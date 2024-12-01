@@ -3,6 +3,7 @@
  */
 package org.example
 
+import adventOfCode.dayOne.App
 import kotlin.test.Test
 import kotlin.test.assertNotNull
 
